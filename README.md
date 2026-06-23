@@ -40,3 +40,11 @@ Accuracy: 91%
 - MntMeatProducts
 - NumStorePurchases
 - Income
+
+- ## Importância das Variáveis
+
+![Importância das Variáveis](images/feature_importance.png)
+
+## Matriz de Confusão
+
+![Matriz de Confusão](images/confusion_matrix.png)
